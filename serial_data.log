@@ -1,0 +1,2 @@
+2023-09-09 12:51:50,150 - ERROR - Error establishing MQTT connection: [Errno 11001] getaddrinfo failed
+2023-09-09 12:51:50,150 - WARNING - MQTT connection could not be established. Messages will be written to a temporary file.
